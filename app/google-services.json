@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "649288596053",
+    "firebase_url": "https://promofire-155313.firebaseio.com",
+    "project_id": "promofire-155313",
+    "storage_bucket": "promofire-155313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649288596053:android:89ce2d9cbca54c9a",
+        "android_client_info": {
+          "package_name": "org.activity.promofire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649288596053-v7ia23t3060pkrt800o4lg5hq4lk3rmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6mKJ9ezRBH956cIedhvhUQQBwYLwUlNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
